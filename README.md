@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Science and Engineering studendt @ Politecnico di Milano
+Computer Science and Engineering student @ Politecnico di Milano
