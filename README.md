@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior Data Engineer @ Quantyca - Data at Core
+Data Engineer @ Quantyca - Data at Core
 
-Computer Science and Engineering student @ Politecnico di Milano
+Former Computer Science and Engineering student @ Politecnico di Milano
